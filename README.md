@@ -2,7 +2,7 @@
 # Olá, eu sou o Leonardo
 
 Desenvolvedor Backend em formação, com foco em desenvolvimento de aplicações web e APIs.  
-Tenho experiência com PHP, Laravel e MySql. Atualmente estou direcionando meus estudos para back-end com Python e Django.
+Tenho experiência com PHP, Laravel e MySql.
 
 ---
 
